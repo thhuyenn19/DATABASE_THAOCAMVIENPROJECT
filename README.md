@@ -35,5 +35,5 @@ Dữ liệu được lấy từ các nguồn về **Thảo Cầm Viên Sài Gòn
 - Quản lý hợp đồng đối tác
 *Bên cạnh đó bao gồm các dữ liệu được nhóm tự tạo ra*
 
-Project được thực hiện với mục đích học tập.
+**Project được thực hiện với mục đích học tập.**
 
