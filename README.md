@@ -24,7 +24,7 @@ Dự án **Thao Cam Vien Management System** được xây dựng nhằm hỗ tr
 
 ## 🛠️ Tool
 - **MySQL Server** - Xây dựng và truy vấn dữ liệu
-- **Draw.io** - Thiết kế mô hình ERD và quy trình quản lý
+- **Draw.io** - Xây dựng diagram
 
 ## 📂 Cấu trúc dữ liệu
 Dữ liệu được lấy từ các nguồn về **Thảo Cầm Viên Sài Gòn**, bao gồm:
