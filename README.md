@@ -33,6 +33,7 @@ Dữ liệu được lấy từ các nguồn về **Thảo Cầm Viên Sài Gòn
 - Lịch sử bán vé
 - Hoạt động vui chơi, dịch vụ cho khách tham quan
 - Quản lý hợp đồng đối tác
+  
 *Bên cạnh đó bao gồm các dữ liệu được nhóm tự tạo ra*
 
 **Project được thực hiện với mục đích học tập.**
