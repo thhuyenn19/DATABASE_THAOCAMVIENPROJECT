@@ -20,7 +20,7 @@ Dự án **Thao Cam Vien Management System** được xây dựng nhằm hỗ tr
 - **Th.s Lâm Hồng Thanh** 
 
 ## 📚 Môn học
-- **Course:*DATABASE* 
+- **Course:*DATABASE**
 
 ## 🛠️ Tool
 - **MySQL Server** - Xây dựng và truy vấn dữ liệu
